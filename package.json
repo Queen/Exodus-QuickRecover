@@ -1,0 +1,15 @@
+{
+  "name": "exodus-quickrecover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Queen",
+  "dependencies": {
+    "bitcoin-seed": "^1.0.0",
+    "seco-file": "^2.0.0",
+    "zlib": "^1.0.5"
+  }
+}
